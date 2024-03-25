@@ -7,7 +7,9 @@
 Click or hover on the badges 👆🏼 <br/>
 
 <hr style="border:1px black">
+
 ### GitHub Stats
+
 
 ![GitHub Streak](https://github-readme-streak-stats-beta-nine.vercel.app/?user=JRhin&theme=transparent)
 
