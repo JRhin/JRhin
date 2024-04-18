@@ -10,7 +10,7 @@ Click or hover on the badges 👆🏼 <br/>
 
 ### My Dotfiles
 
-[![Readme Card](https://github-readme-stats-two-roan-14.vercel.app/api/pin/?username=jrhin&repo=.dotfiles)](https://github.com/JRhin/.dotfiles)
+[![Readme Card](https://github-readme-stats-two-roan-14.vercel.app/api/pin/?username=jrhin&repo=.dotfiles&theme=transparent&show_owner=true)](https://github.com/JRhin/.dotfiles)
 
 <hr style="border:1px black">
 
