@@ -17,7 +17,7 @@ Click or hover on the badges 👆🏼 <br/>
   <img height=200 align="center" src="https://github-readme-stats-two-roan-14.vercel.app/api?username=jrhin&show_icons=true&rank_icon=github&theme=transparent" />
 </a>
 <a href="https://github.com/JRhin">
-  <img height=200 align="center" src="https://github-readme-stats-two-roan-14.vercel.app/api/top-langs?username=jrhin&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats-two-roan-14.vercel.app/api/top-langs?username=jrhin&layout=compact&langs_count=8&card_width=320&theme=transparent&exclude_repo=algorithmic-methods-of-data-mining-homeworks,statistical-learning-hmws,social-network-hmw1,data-mining-homeworks,github-readme-stats,github-readme-streak-stats" />
 </a>
 
 <hr style="border:1px black">
