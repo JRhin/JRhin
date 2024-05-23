@@ -8,10 +8,15 @@ Click or hover on the badges 👆🏼 <br/>
 
 <hr style="border:1px black">
 
+### My Dotfiles
+
+[![Readme Card](https://github-readme-stats-two-roan-14.vercel.app/api/pin/?username=jrhin&repo=.dotfiles&theme=transparent&show_owner=true)](https://github.com/JRhin/.dotfiles)
+
+<hr style="border:1px black">
+
 ### GitHub Stats
 
-
-![GitHub Streak](https://github-readme-streak-stats-beta-nine.vercel.app/?user=JRhin&theme=transparent)
+[![GitHub Streak](https://github-readme-streak-stats-beta-nine.vercel.app/?user=JRhin&theme=transparent)](https://github.com/JRhin)
 
 <a href="https://github.com/JRhin">
   <img height=200 align="center" src="https://github-readme-stats-two-roan-14.vercel.app/api?username=jrhin&show_icons=true&rank_icon=github&theme=transparent" />
